@@ -1,3 +1,7 @@
+
+<img width="2752" height="1536" alt="말랑말랑 멀티 모델 터미널 가이드" src="https://github.com/user-attachments/assets/cfd3b3e1-e324-4404-a3bf-28d3e266cdf5" />
+
+
 # Multi Model TUI
 
 `Codex / Claude / Gemini`를 하나의 터미널 REPL과 로컬 프록시로 묶은 단일 패키지입니다.
